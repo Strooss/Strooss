@@ -14,6 +14,7 @@ I'm a back-end developer from Tunisia, specializing in customized Discord bots a
 ### ✉️ Contact Me :
 
 - [Discord](https://discord.com/users/631743913740468235) / synsetz
+- [Designers Zone](https://discord.gg/aPeENtKAME) / My discord community to learn design
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
