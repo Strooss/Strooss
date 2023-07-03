@@ -8,15 +8,12 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a cool back-end Developer from Tunisia.
-- :telescope: I’m do customized discord bots and i also contribute in web applications back-end.
-- :zap: In my free time, I like watching Netflix or scrolling tiktok.
----
+I'm a back-end developer from Tunisia, specializing in customized Discord bots and web application back-end development. I enjoy finding efficient solutions to complex problems using JavaScript and TypeScript. In my free time, I stay updated with industry trends and enjoy learning new technologies. Feel free to reach out for collaboration or inquiries.
+
 
 ### ✉️ Contact Me :
 
 - [Discord](https://discord.com/users/631743913740468235) / synsetz
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
