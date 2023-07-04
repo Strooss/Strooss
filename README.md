@@ -8,7 +8,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I'm a back-end developer from Tunisia, specializing in customized Discord bots and web application back-end development. I enjoy finding efficient solutions to complex problems using JavaScript and TypeScript. In my free time, I stay updated with industry trends and enjoy learning new technologies. Feel free to reach out for collaboration or inquiries.
+I'm a back-end developer from Tunisia, specializing in discord bots development and web application back-end development. I enjoy finding efficient solutions to complex problems using JavaScript and TypeScript. In my free time, I stay updated with industry trends and enjoy learning new technologies. Feel free to reach out for collaboration or inquiries or paid work.
 
 
 ### ✉️ Contact Me :
