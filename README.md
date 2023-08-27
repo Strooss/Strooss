@@ -7,7 +7,7 @@ I'm Youssef, also known as Stroos (he/him). As a backend developer, designer, an
 
 ### ✉️ Contact Me :
 
-- [Discord](https://discord.com/users/631743913740468235) / synsetz
+- [Discord](https://discord.com/users/631743913740468235) / stroos
 - [Designers Zone](https://discord.gg/aPeENtKAME) / My discord community to learn design
 
 ### :hammer_and_wrench: Languages and Tools :
